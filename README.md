@@ -12,8 +12,12 @@ Ps: O título sonhos de outrora é poético e evocativo por sugerir memórias, e
 
 PERSONAGEM:
 
-nome: Juan Martin Luc.IO OVERWATCH2
+nome: Juan Martin
 Idade: 17
-Personalidade: Inocente, sonhador, louco, corintiano, gamer de ow2, 
+Personalidade: Inocente, sonhador, louco, corintiano, 
 Status financeiro: Pobre
-mascote: gaviao roubado (referencia ao cortinas)
+
+Cenario1 = quarto
+
+O quarto aparece por um breve momento no inicio do jogo mostrando o mc Juan dormindo.
+O quarto demonstra um pouco de sua realidade de vida e tambem do seu espirito sonhador
