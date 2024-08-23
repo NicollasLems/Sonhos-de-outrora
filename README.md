@@ -1,6 +1,6 @@
 <h1 align="center">Sonhos de Outrora</h1>
 
-<h3 align="right">Por Kevin Novais, João Paulo, Murilo Rangel e Nicollas Lemes</h3>
+<h3 align="center">Por Kevin Novais, João Paulo, Murilo Rangel e Nicollas Lemes</h3>
 <br>
 <h2>Sonhos de Outrora - Uma história passada por séculos</h2>
 
