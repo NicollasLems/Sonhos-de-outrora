@@ -24,7 +24,7 @@ O jogador deverá coletar pistas, para depois montar um quebra-cabeça para reso
 <p><strong>Personalidade:</strong> Inocente, sonhador, louco, corintiano</p>
 <p><strong>Status financeiro:</strong> Pobre</p>
 <p><strong>Cenário 1 =</strong> <em>Quarto</em> / MASP</p>
-<p><em>O quarto aparece por um breve momento no inicio do jogo mostrando o mc Juan dormindo. O quarto demonstra um pouco de sua realidade de vida e tambem do seu espirito sonhador</em></p>
+<p><em>O quarto aparece por um breve momento no inicio do jogo mostrando o Juan dormindo. O quarto demonstra um pouco de sua realidade de vida e tambem do seu espirito sonhador</em></p>
 <p>O MASP seria onde o jogador armazenaria as pistas para encontrar a estátua.</p>
 
 <h2><strong>Links:</strong></h2>
