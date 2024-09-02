@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
+<<<<<<< HEAD
   productGUID: f9f0d617154c34742bf1bac31796c5a8
+=======
+  productGUID: d30bb7c4a6da7d641b520a2733bbf0dc
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -764,11 +768,19 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: 
   organizationId: 
+=======
+  cloudProjectId: 5d60f9ad-4a5a-49e6-9f03-06fe5c97cf12
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Sonhos de outrora 2024-08-12_22-42-08
+  organizationId: nicollaslems
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

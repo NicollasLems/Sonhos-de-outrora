@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -55,11 +56,16 @@
     },
     "com.unity.collab-proxy": {
       "version": "2.2.0",
+=======
+    "com.unity.collab-proxy": {
+      "version": "2.4.4",
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.collections": {
       "version": "1.4.0",
       "depth": 3,
@@ -71,6 +77,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -80,7 +88,11 @@
     },
     "com.unity.ext.nunit": {
       "version": "2.0.5",
+<<<<<<< HEAD
       "depth": 1,
+=======
+      "depth": 2,
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -100,7 +112,11 @@
     },
     "com.unity.ide.rider": {
       "version": "3.0.27",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
@@ -109,13 +125,18 @@
     },
     "com.unity.ide.visualstudio": {
       "version": "2.0.22",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
@@ -137,6 +158,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
     "com.unity.performance.profile-analyzer": {
       "version": "1.2.2",
       "depth": 1,
@@ -144,6 +167,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.purchasing": {
       "version": "4.10.0",
       "depth": 0,
@@ -220,6 +244,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
     "com.unity.settings-manager": {
       "version": "2.0.1",
       "depth": 2,
@@ -227,6 +253,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.shadergraph": {
       "version": "16.0.5",
       "depth": 1,
@@ -239,6 +266,11 @@
     "com.unity.test-framework": {
       "version": "1.3.9",
       "depth": 0,
+=======
+    "com.unity.test-framework": {
+      "version": "1.3.9",
+      "depth": 1,
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
@@ -288,6 +320,7 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.10",
       "depth": 0,
@@ -298,6 +331,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
