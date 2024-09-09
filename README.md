@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Sonhos-de-outrora
-=======
 <h1 align="center">Sonhos de Outrora</h1>
 
 <h3 align="center">Por Kevin Novais, João Paulo, Murilo Rangel e Nicollas Lemes</h3>
@@ -34,4 +32,3 @@ O jogador deverá coletar pistas, para depois montar um quebra-cabeça para reso
 <p>Estátua da Madrinha Eunice:</p>
 <p>https://sketchfab.com/3d-models/madrinha-eunice-deolinda-madre-fef0930308d34d3681dbf8845f64dc59</p>
 <p>https://skfb.ly/oJx6P</p>
->>>>>>> abc92495fec8687bf84b00dee0b83b490f3bad0b
